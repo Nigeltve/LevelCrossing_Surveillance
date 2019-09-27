@@ -1,0 +1,56 @@
+scores 
+	int H_Lower = 0;	int H_Upper = 360;
+	int S_Lower = 2;    int S_Upper = 35;
+	int V_Lower = 0;    int V_Upper = 255;
+
+	OnTrack_test	|  percent	|
+		 empty acc	| 	 76%	|	
+		ontrack acc	| 	 85%	|
+		
+	----------------------------------------------
+	
+	int H_Lower = 0;	int H_Upper = 360;
+	int S_Lower = 2;    int S_Upper = 40;
+	int V_Lower = 0;    int V_Upper = 255;
+
+	OnTrack_test	|  percent	|
+		 empty acc	| 	 85%	|	
+		ontrack acc	| 	 82%	|
+		
+	----------------------------------------------
+		
+	int H_Lower = 0;	int H_Upper = 360;
+	int S_Lower = 2;    int S_Upper = 37;
+	int V_Lower = 0;    int V_Upper = 255;
+
+	OnTrack_test	|  percent	|
+		 empty acc	| 	 76%	|	
+		ontrack acc	| 	 84%	|
+			
+	----------------------------------------------
+		
+	int H_Lower = 0;	int H_Upper = 360;
+	int S_Lower = 2;    int S_Upper = 42;
+	int V_Lower = 0;    int V_Upper = 255;
+	
+	OnTrack_test	|  percent	|
+		 empty acc	| 	 80%	|	
+		ontrack acc	| 	 81%	|
+		
+	----------------------------------------------
+	
+	int H_Lower = 0;	int H_Upper = 360;
+	int S_Lower = 2;    int S_Upper = 40;
+	int V_Lower = 1;    int V_Upper = 245;
+	
+	OnTrack_test	|  percent	|
+		 empty acc	| 	 76%	|	
+		ontrack acc	| 	 86%	|
+
+	
+	
+	
+	
+	
+	
+		
